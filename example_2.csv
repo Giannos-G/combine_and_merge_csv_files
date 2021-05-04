@@ -1,0 +1,11 @@
+PyScript,Energy(Joule)
+plot_outlier_detection_wine.py,175.953125
+plot_face_recognition.py,169.546875
+plot_out_of_core_classification.py,169.808594
+plot_prediction_latency.py,174.386719
+plot_stock_market.py,180.746094,
+plot_tomography_l1_reconstruction.py,147.027344
+plot_bicluster_newsgroups.py,208.949219
+example.py,95.191406
+plot_topics_extraction_with_nmf_lda.py,236.84375
+plot_species_distribution_modeling.py,499.085938
